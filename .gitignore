@@ -1,7 +1,0 @@
-firmware/src/Mao_robotica_cod_python/**/Include/
-firmware/src/Mao_robotica_cod_python/**/Lib/
-firmware/src/Mao_robotica_cod_python/**/Scripts/
-firmware/src/Mao_robotica_cod_python/**/share/
-firmware/src/Mao_robotica_cod_python/**/pyvenv.cfg
-**/__pycache__/
-*.py[cod]
